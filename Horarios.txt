@@ -1,1 +1,29 @@
- 
+                        [MD - Metodoliga de desarrollo] [W - Programacion Web] [M - Matematicas] [I - Ingles]
+
+|-------------------------------------|
+| Lunes:                              |
+|       [ Matematica Introductoria]   |
+|       [ Programacion Web 15-18 ]    |
+|                                     |
+|-------------------------------------|
+
+
+|-------------------------------------|
+| Martes:                             |
+|          [ Programacion Web 17-21 ] |
+|                                     |
+|-------------------------------------|
+
+
+|-------------------------------------|
+| Miercoles:                          |
+|       [ Matematica Introductoria ]  |
+|       [ Metodologia De Desarrollo ] |
+|-------------------------------------|
+
+
+|-------------------------------------|
+| Jueves:                             |
+|            [ Ingles 16-18 ]         |
+|          [ Programacion Web 18-21 ] |
+|-------------------------------------|
