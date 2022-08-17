@@ -1,2 +1,27 @@
     Clase 01 - [ 11/08 ]
 
+    Notas:
+
+Tipos de aplicaciones Web:
+
+    Estaticos:
+
+        Generadores (Gatsby, Jekill)
+
+    Single Page Aplications (SPA):
+        
+        Non time real
+        Time real Apps
+
+    Mobile Apps:
+
+        Nativas
+        Web
+        Hibridas
+
+ DOM  Modelo de objetos de documentos:
+        
+        Permite interactuar desde JS con elementos de HTML 
+
+
+
